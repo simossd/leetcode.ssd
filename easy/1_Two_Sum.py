@@ -1,4 +1,4 @@
-from typing import List # i added this cause i'm wrking in vscode
+from typing import List # add this to test with vscode
 
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
